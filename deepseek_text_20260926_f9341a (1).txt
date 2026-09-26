@@ -1,0 +1,12 @@
+SniatPidoragandona/
+├── .github/
+│   └── workflows/
+│       └── build.yml
+├── pom.xml
+└── src/
+    └── main/
+        ├── java/
+        │   └── com/example/sniatpidoragandona/
+        │       └── SniatPidoragandona.java
+        └── resources/
+            └── plugin.yml

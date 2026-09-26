@@ -1,0 +1,11 @@
+name: SniatPidoragandona
+version: 1.0
+main: com.example.sniatpidoragandona.SniatPidoragandona
+api-version: 1.16
+depend: [LuckPerms]
+commands:
+  sniatpidoragandona:
+    description: Удаляет данные игрока из LuckPerms (только консоль)
+    usage: /sniatpidoragandona <игрок>
+    permission: sniatpidoragandona.use
+    permission-message: У вас нет прав на использование этой команды.
